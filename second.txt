@@ -1,2 +1,2 @@
-This is the second file from local machine.
-Another commit from local.
+This is the second file from local machine
+second revert commit
